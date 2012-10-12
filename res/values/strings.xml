@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CCT</string>
+    <string name="main_screen"></string>
+    <string name="splash_screen"></string>
+	<string name="eula_title">NATIONAL CENTER FOR TELEHEALTH AND TECHNOLOGY ("T2") SOFTWARE END USER LICENCE AGREEMENT</string>
+	<string name="eula_accept">Accept</string>
+	<string name="eula_refuse">Refuse</string>
+	<string name="touch_anywhere_to_continue">Touch anywhere to continue</string>
+</resources>
