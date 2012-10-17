@@ -4,7 +4,7 @@
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
-	<classpathentry kind="lib" path="C:/wamp/www/workspace/T2_CoCT/libs/FlurryAgent.jar"/>
-	<classpathentry kind="lib" path="C:/wamp/www/workspace/T2_CoCT/libs/cordova-1.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/wamp/www/workspace/T2_CoCT/libs/FlurryAgent.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/wamp/www/workspace/T2_CoCT/libs/cordova-1.8.1.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
